@@ -4,7 +4,7 @@
 
 page link :  "https://github.com/VanshikaNagarajan/Diabetes_Predictor"
 
-code link : ""
+code link : "https://github.com/VanshikaNagarajan/Diabetes_Predictor/blob/master/Diabetes%20Prediction.ipynb"
 
 website link : ""
 
